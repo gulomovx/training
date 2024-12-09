@@ -1,0 +1,83 @@
+{
+      "products" :[  {
+            "likes":0,
+            "dislikes":0,
+           "id": 1,
+           "name": "Wireless Headphones",
+           "price": 99.99,
+           "currency": "USD",
+           "image": "https://i.imgur.com/1YrCKaP.jpeg",
+           "description": "High-quality wireless headphones with noise-cancellation feature and long battery life.",
+           "rating": 4.5,
+           "reviews": 134,
+           "inStock": true,
+           "creationAt": "2024-08-10T12:14:09.000Z",
+           "updatedAt": "2024-08-14T11:12:35.000Z"
+         },
+         {
+           "id": 2,
+           "likes":0,
+           "dislikes":0,
+
+           "name": "Smart Watch",
+           "price": 199.99,
+           "currency": "USD",
+           "image": "https://i.imgur.com/NYBRTOw.jpeg",
+           "description": "Stylish smart watch with health tracking, GPS, and waterproof design.",
+           "rating": 4.2,
+           "reviews": 98,
+           "inStock": false,
+           "creationAt": "2024-08-11T10:14:09.000Z",
+           "updatedAt": "2024-08-14T10:15:09.000Z"
+         },
+         {
+           "id": 3,
+           "likes":0,
+           "dislikes":0,
+
+           "name": "4K LED TV",
+           "price": 599.99,
+           "currency": "USD",
+           "image": "https://i.imgur.com/2TXQ74V.jpeg",
+           "description": "Ultra HD 4K LED TV with HDR support and built-in streaming apps.",
+           "rating": 4.7,
+           "reviews": 250,
+           "inStock": true,
+           "creationAt": "2024-08-09T09:14:09.000Z",
+           "updatedAt": "2024-08-14T09:14:09.000Z"
+         },
+         {
+           "id": 4,
+           "likes":0,
+           "dislikes":0,
+
+           "name": "Gaming Laptop",
+           "price": 1299.99,
+           "currency": "USD",
+           "image": "https://i.imgur.com/yLdL8qM.jpeg",
+           "description": "High-performance gaming laptop with the latest GPU and a fast refresh rate display.",
+           "rating": 4.8,
+           "reviews": 312,
+           "inStock": true,
+           "creationAt": "2024-08-12T11:14:09.000Z",
+           "updatedAt": "2024-08-14T08:12:35.000Z"
+         },
+         {
+           "id": 5,
+           "likes":0,
+           "dislikes":0,
+
+           "name": "Bluetooth Speaker",
+           "price": 49.99,
+           "currency": "USD",
+           "image": "https://i.imgur.com/w5KCEvG.jpeg",
+           "description": "Portable Bluetooth speaker with excellent sound quality and long battery life.",
+           "rating": 4.3,
+           "reviews": 205,
+           "inStock": false,
+           "creationAt": "2024-08-13T13:14:09.000Z",
+           "updatedAt": "2024-08-14T13:12:35.000Z"
+         }
+   ]
+   }
+       
